@@ -4,3 +4,5 @@ Sampai saat ini vaksin untuk memerangi coronavirus yang menyebabkan penyakit COV
 Di Indonesia, tepatnya di DKI Jakarta, Anies Baswedan selaku Gubernur Provinsi DKI Jakarta kembali memberlakukan Pembatasan Sosial Berskala Besar (PSBB) pada tanggal 14 September 2020. Hal itu dilakukan untuk menekan angka penularan pandemi COVID-19 yang semakin meningkat pada PSBB Masa Transmisi Fase 1. 
  
 Analisis ini bertujuan untuk mengevaluasi kebijakan "menarik rem mendadak" yang diambil oleh Gubernur Anies Baswedan.
+
+Untuk penjelasan lengkapnya silakan kunjungi : https://mercyana98.medium.com/analisis-data-covid-19-di-dki-jakarta-203a936b554e
